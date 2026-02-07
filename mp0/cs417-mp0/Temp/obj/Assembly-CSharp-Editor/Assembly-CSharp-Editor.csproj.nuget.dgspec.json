@@ -1,0 +1,909 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp-Editor.csproj": {}
+  },
+  "projects": {
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp-Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp-Editor.csproj",
+        "projectName": "Assembly-CSharp-Editor",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp-Editor.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Assembly-CSharp-Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/ControllerSample.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/ControllerSample.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Hands.Samples.VisualizerSample.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Hands.Samples.VisualizerSample.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.Editor.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Assembly-CSharp/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/ControllerSample.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/ControllerSample.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Hands.Samples.VisualizerSample.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Hands.Samples.VisualizerSample.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj"
+              },
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.Editor.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/ControllerSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/ControllerSample.csproj",
+        "projectName": "ControllerSample",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/ControllerSample.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/ControllerSample/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Hands.Samples.VisualizerSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Hands.Samples.VisualizerSample.csproj",
+        "projectName": "Unity.XR.Hands.Samples.VisualizerSample",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Hands.Samples.VisualizerSample.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Hands.Samples.VisualizerSample/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.Hands",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.Hands/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.StarterAssets/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj",
+        "projectName": "Unity.XR.Management.Samples",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Management.Samples/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.Editor.csproj",
+        "projectName": "Unity.XR.Management.Samples.Editor",
+        "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.Editor.csproj",
+        "packagesPath": "/Users/abhinav/.nuget/packages/",
+        "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Unity.XR.Management.Samples.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj": {
+                "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

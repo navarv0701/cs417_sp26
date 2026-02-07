@@ -1,0 +1,324 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "ControllerSample/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/ControllerSample.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ControllerSample.dll": {}
+        }
+      },
+      "Unity.XR.Hands.Samples.VisualizerSample/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Hands.Samples.VisualizerSample.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Hands.Samples.VisualizerSample.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.Hands/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.Hands.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.Hands.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.StarterAssets/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.dll": {}
+        }
+      },
+      "Unity.XR.Management.Samples/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Management.Samples.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Management.Samples.dll": {}
+        }
+      },
+      "Unity.XR.Management.Samples.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.XR.Management.Samples": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.XR.Management.Samples.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Management.Samples.Editor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControllerSample/1.0.0": {
+      "type": "project",
+      "path": "ControllerSample.csproj",
+      "msbuildProject": "ControllerSample.csproj"
+    },
+    "Unity.XR.Hands.Samples.VisualizerSample/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Hands.Samples.VisualizerSample.csproj",
+      "msbuildProject": "Unity.XR.Hands.Samples.VisualizerSample.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.Hands/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.Hands.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.Hands.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.StarterAssets/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj"
+    },
+    "Unity.XR.Management.Samples/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Management.Samples.csproj",
+      "msbuildProject": "Unity.XR.Management.Samples.csproj"
+    },
+    "Unity.XR.Management.Samples.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Management.Samples.Editor.csproj",
+      "msbuildProject": "Unity.XR.Management.Samples.Editor.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "ControllerSample >= 1.0.0",
+      "Unity.XR.Hands.Samples.VisualizerSample >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.Hands >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.StarterAssets >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor >= 1.0.0",
+      "Unity.XR.Management.Samples >= 1.0.0",
+      "Unity.XR.Management.Samples.Editor >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/abhinav/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp.csproj",
+      "projectName": "Assembly-CSharp",
+      "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Assembly-CSharp.csproj",
+      "packagesPath": "/Users/abhinav/.nuget/packages/",
+      "outputPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Temp/obj/Assembly-CSharp/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/abhinav/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/ControllerSample.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/ControllerSample.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Hands.Samples.VisualizerSample.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Hands.Samples.VisualizerSample.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.csproj"
+            },
+            "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.Editor.csproj": {
+              "projectPath": "/Users/abhinav/Documents/GitHub/cs417_sp26/mp0/cs417-mp0/Unity.XR.Management.Samples.Editor.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
